@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ## Tools
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-3DDC84?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-3DDC84?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=firebase&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical)
