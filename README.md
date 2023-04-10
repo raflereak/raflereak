@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.youtube.com/channel/UCFdiVpDQ91jl1Sr37M1p5iw" target="_blank"><img src="https://img.shields.io/badge/youtube-FFFFFF?style=flat&logo=youtube&logoColor=FF0000"/></a>
+<a href="https://www.youtube.com/channel/UCFdiVpDQ91jl1Sr37M1p5iw" target="_blank"><img src="https://img.shields.io/badge/RaflereaK's Youtube-FFFFFF?style= for-the-badge&logo=youtube&logoColor=FF0000"/></a>
 
 
 
