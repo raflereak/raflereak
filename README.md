@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Human in the loop 
 
 # SKILL
-## Can Used Library
+## Used Library
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> 
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
 
