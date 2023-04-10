@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Ubtuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Synology-B5B5B6?style=flat-square&logo=synology&logoColor=white"/>
 
 
 ## Language
@@ -36,7 +37,10 @@ Here are some ideas to get you started:
 
 
 ## Tools
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=firebase&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical)
