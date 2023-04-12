@@ -3,7 +3,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=raflereak)](https://solved.ac/raflereak/)
 
 ## Research Field
 - Reinforcement Learning
@@ -27,4 +26,5 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"/>
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=raflereak)](https://solved.ac/raflereak/)
 
