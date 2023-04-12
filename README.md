@@ -1,6 +1,9 @@
 # About Me
 ## [<img src="https://img.shields.io/badge/Notion Blog-000000?style=for-the-badge&logo=Notion&logoColor=white"/>](https://www.notion.so/raflereak/b93e571c118c41f5b51dc1dceb472f6c?pvs=4)
 
+![](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raflereak&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raflereak&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raflereak&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raflereak&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raflereak&theme=aura_dark&utcOffset=8)
