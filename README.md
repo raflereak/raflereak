@@ -10,7 +10,7 @@
 - Human in the loop 
 
 
-\\<!-- -
+<!--
 # SKILL
 ## Used Library
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
