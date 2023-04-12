@@ -6,10 +6,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raflereak&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raflereak&theme=aura_dark&utcOffset=8)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflereak&layout=compact&theme=highcontrast)
-
 ## Research Field
 - Reinforcement Learning
 - Human AI Interaction
