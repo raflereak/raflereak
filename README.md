@@ -1,19 +1,6 @@
 ### Hi There!!! 👋
 
-<!--
-**raflereak/raflereak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical)
 
 ## Research Field
 - Reinforcement Learning
@@ -37,4 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/AdobeAfterEffects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical)
+
