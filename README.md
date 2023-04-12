@@ -4,6 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&theme=radical) 
 
+<a href="https://github.com/raflereak/raflereak">
+  <img src="https://github-readme-stats.vercel.app/api?username=raflereak&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="raflereak's GitHub Stats" />
+
 ## Research Field
 - Reinforcement Learning
 - Human AI Interaction
